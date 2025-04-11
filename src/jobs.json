@@ -83,34 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "6948",
-      "type": "Part-Time",
-      "title": "Uma Bruce",
-      "description": "Consectetur et dele",
-      "salary": "Over $200K",
-      "location": "Doloremque non archi",
-      "company": {
-        "name": "Terry Mathis Co",
-        "description": "Non amet sed dolore",
-        "contactEmail": "vyvateq@mailinator.com",
-        "contactPhone": "+1 (415) 437-1762"
-      }
-    },
-    {
-      "id": "25d9",
-      "type": "Internship",
-      "title": "Conan Bruce",
-      "description": "Anim velit voluptate",
-      "salary": "$90K - $100K",
-      "location": "Omnis velit ipsa d",
-      "company": {
-        "name": "Reid Hodges Trading",
-        "description": "Qui praesentium repr",
-        "contactEmail": "tofux@mailinator.com",
-        "contactPhone": "+1 (443) 958-7313"
-      }
     }
   ]
 }
