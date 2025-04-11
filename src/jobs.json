@@ -83,6 +83,34 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "4349",
+      "type": "Internship",
+      "title": "Kadeem Barrett",
+      "description": "Qui temporibus nostr",
+      "salary": "$150K - $175K",
+      "location": "Quas odit numquam la",
+      "company": {
+        "name": "Hewitt and Ward Co",
+        "description": "Fuga Voluptates adi",
+        "contactEmail": "vudyj@mailinator.com",
+        "contactPhone": "+1 (394) 882-9193"
+      }
+    },
+    {
+      "id": "c9f3",
+      "type": "Internship",
+      "title": "Kadeem Barrett mm",
+      "description": "Qui temporibus nostr",
+      "salary": "$150K - $175K",
+      "location": "Quas odit numquam la",
+      "company": {
+        "name": "Hewitt and Ward Co",
+        "description": "Fuga Voluptates adi",
+        "contactEmail": "vudyj@mailinator.com",
+        "contactPhone": "+1 (394) 882-9193"
+      }
     }
   ]
 }
